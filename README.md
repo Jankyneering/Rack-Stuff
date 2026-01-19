@@ -44,12 +44,12 @@ It is also possible to put two boxes side by side in a 19" rack, but the CAD has
 ![Anderson Powerpole Keystone Port](docs/Anderson_Powerpole_Keystone_FreeCAD.png)
 > Note : The Powerpole connectors in the CAD are only for illustration purposes.
 
-#### IEC 60320 C6 Keystone Port
+#### IEC 60320 C8 Keystone Port
 
 > **Work in progress**  
 > TODO : Add `.obj`/`.3mf` exports for easy 3D printing
 
-![IEC 60320 C6 Keystone Port](docs/IEC60320_C6_Keystone_FreeCAD.png)
+![IEC 60320 C8 Keystone Port](docs/IEC60320_C8_Keystone_FreeCAD.png)
 
 ## License & Acknowledgements
 
