@@ -27,34 +27,44 @@ It is also possible to put two boxes side by side in a 19" rack, but the CAD has
 
 #### Blank Keystone Port
 
-> TODO : Add `.obj`/`.3mf` exports for easy 3D printing
+> TODO : Add `.3mf` exports for easy 3D printing
+
+[`.OBJ` file](/hardware/3DPrint_Files/Blank%20Keystone.obj)
 
 ![Blank Keystone Port](docs/Blank_Keystone_FreeCAD.png)
 
 #### SMA Keystone Port
 
-> TODO : Add `.obj`/`.3mf` exports for easy 3D printing
+> TODO : Add `.3mf` exports for easy 3D printing
+
+[`.OBJ` file](/hardware/3DPrint_Files/SMA%20Keystone.obj)
 
 ![SMA Keystone Port](docs/SMA_Keystone_FreeCAD.png)
 
 #### Anderson Powerpole Keystone Port
 
-> TODO : Add `.obj`/`.3mf` exports for easy 3D printing
+> TODO : Add `.3mf` exports for easy 3D printing
+
+[`.OBJ` file](/hardware/3DPrint_Files/AndersonPowerpole_Keystone.obj)
 
 ![Anderson Powerpole Keystone Port](docs/Anderson_Powerpole_Keystone_FreeCAD.png)
 > Note : The Powerpole connectors in the CAD are only for illustration purposes.
 
 #### 8mm Button/LED Keystone Port
 
-> TODO : Add `.obj`/`.3mf` exports for easy 3D printing
+> TODO : Add `.3mf` exports for easy 3D printing
 > TODO : Add pictures
+
+[`.OBJ` file](/hardware/3DPrint_Files/BUTTON-LED_Keystone.obj)
 
 ![8mm Button/LED Keystone Port](docs/BUTTON-LED_Keystone_FreeCAD.png)
 
 #### IEC 60320 C8 Keystone Port
 
 > **Work in progress**  
-> TODO : Add `.obj`/`.3mf` exports for easy 3D printing
+> TODO : Add `.3mf` exports for easy 3D printing
+
+[`.OBJ` file](/hardware/3DPrint_Files/IEC%20C8%20Keystone.obj)
 
 ![IEC 60320 C8 Keystone Port](docs/IEC60320_C8_Keystone_FreeCAD.png)
 
